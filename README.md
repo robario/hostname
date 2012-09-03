@@ -1,0 +1,4 @@
+hostname
+========
+
+hostname with -f
